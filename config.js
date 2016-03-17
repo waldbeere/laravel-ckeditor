@@ -37,5 +37,5 @@ CKEDITOR.editorConfig = function( config ) {
 	config.removeDialogTabs = 'image:advanced;link:advanced';
 	
 	// Set extra plugin
-	config.extraPlugins = 'widgetbootstrap';
+	config.extraPlugins = 'widgetbootstrap,widgettemplatemenu';
 };
